@@ -1,7 +1,9 @@
 # Login Registration Form
 
-![Login Registration Form Screenshot](screenshot01.png)
-![Login Registration Form Screenshot](screenshot02.png)
+## Screenshots
+<img src="screenshot01.png" alt="Login Registration Form Screenshot" width="500" height="500">
+<img src="screenshot02.png" alt="Login Registration Form Screenshot" width="500" height="500">
+
 ## Description
 
 This is a simple login registration form created using HTML and CSS. It provides fields for users to input their username, email, password, and confirm password for registration, and for returning users to log in using their credentials.
@@ -16,7 +18,6 @@ This is a simple login registration form created using HTML and CSS. It provides
 
 1. Download or clone the repository to your local machine.
 2. Open `index.html` in a web browser to view the login registration form.
-3. Enter your credentials to register or log in.
 
 ## Credits
 
