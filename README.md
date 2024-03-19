@@ -1,6 +1,6 @@
 # Login Registration Form
 
-## Screenshots
+## Screenshot
 <img src="screenshot01.png" alt="Login Registration Form Screenshot" width="500" height="500">
 <img src="screenshot02.png" alt="Login Registration Form Screenshot" width="500" height="500">
 
